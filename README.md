@@ -1,31 +1,32 @@
-## Hi there 👋
+## Hello, I’m Kim
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Kim;Aspiring+Web+Developer;Learning+and+Building+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Development+Student;Frontend+Focused;Building+Practical+Projects)
 
-🎓 Student | 💻 Aspiring Web Developer  
-🚀 Passionate about building clean and functional web applications
-
----
-
-## 🔧 My Tech Stack
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+**Web Development Student**  
+Focused on creating responsive, maintainable, and user-friendly web applications.
 
 ---
 
-🌱 Currently learning:
-- Advanced JavaScript & React
-- Backend development with Python
-- Database integration
+## Technical Skills
 
-📌 Goal:
-- Build real-world projects
-- Improve full-stack development skills
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=1572B6)
+
+### Backend & Databases
+![Python](https://img.shields.io/badge/Python-20232A?logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-20232A?logo=postgresql&logoColor=4479A1)
+
+---
+
+### Currently Developing Skills In
+- Modern JavaScript and React fundamentals
+- Backend development using Python
+- Relational databases and SQL queries
+
+### Professional Goals
+- Build practical, real-world web applications
+- Strengthen full-stack development fundamentals
+- Write clean, readable, and scalable code
