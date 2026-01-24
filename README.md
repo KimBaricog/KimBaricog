@@ -2,6 +2,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Python+Learner;Flask+Enthusiast)
+
+
 <!--
 **KimBaricog/KimBaricog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
