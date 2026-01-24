@@ -1,8 +1,7 @@
 ## Hi there 👋
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Python+Learner;Flask+Enthusiast)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+Name+is+kim;)
 
 ## 🔧 My Tech Stack
 
