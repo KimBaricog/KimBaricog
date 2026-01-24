@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 <!--
 **KimBaricog/KimBaricog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
