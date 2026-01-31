@@ -1,6 +1,6 @@
 ## Hello, I’m Kim
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Development+Student;Frontend+and+Backend+Focused;Building+Practical+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Development+Student;Frontend+and+Backend+Developer;Building+Practical+Projects)
 
 **Web Development Student**  
 Focused on building responsive, maintainable, and user-friendly web applications.
