@@ -4,7 +4,7 @@
 
 **Web Development Student**  
 Focused on building responsive, maintainable, and user-friendly web applications.
- <img src="https://res.cloudinary.com/dgwmeeszw/image/upload/v1769865317/harry_xb1dqp.png"
+
 ---
 
 ## Tools & Technologies I Use
