@@ -13,6 +13,7 @@ Focused on building responsive, maintainable, and user-friendly web applications
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <img src="https://res.cloudinary.com/dgwmeeszw/image/upload/v1769865317/harry_xb1dqp.png"
       <br />React
     </td>
     <td align="center" width="96">
