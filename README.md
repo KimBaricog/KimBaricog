@@ -66,4 +66,6 @@ Focused on building responsive, maintainable, and user-friendly web applications
 ### Professional Goals
 - Build practical, real-world web applications  
 - Strengthen full-stack development foundations  
-- Write clean, readable, and scalable code  
+- Write clean, readable, and scalable code
+
+  ---
