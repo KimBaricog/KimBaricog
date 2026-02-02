@@ -9,7 +9,7 @@ Focused on building responsive, maintainable, and user-friendly web applications
 
 ## 🎬 Project Demo
 
-![Demo](https://res.cloudinary.com/dgwmeeszw/video/upload/w_1000,f_gif/v1770038554/Pinterest_1_xm7bpn.mp4)
+![Demo](https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4)
 
 ---
 
