@@ -1,4 +1,9 @@
-<div style="width: 100%; height: auto;> <video src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4"></div>
+<div style="width: 100%; height: auto;">
+  <video width="100%" controls>
+    <source src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4" type="video/mp4">
+  </video>
+</div>
+
 
 ## Hello, I’m Kim
 
