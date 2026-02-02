@@ -1,3 +1,5 @@
+<div style="width: 100%; height: auto;> <video src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4"></div>
+
 ## Hello, I’m Kim
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Development+Student;Frontend+and+Backend+Developer;Building+Practical+Projects)
