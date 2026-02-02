@@ -69,5 +69,6 @@ Focused on building responsive, maintainable, and user-friendly web applications
 - Write clean, readable, and scalable code
 
 ---
-
+<div style="width: 100%; height: auto;">
 <img src="https://res.cloudinary.com/dgwmeeszw/image/upload/v1770038997/snoopy_wallpaper-removebg-preview_c20h1v.png">
+</div>
