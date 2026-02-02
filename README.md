@@ -1,12 +1,15 @@
-
-
-
 ## Hello, I’m Kim
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Development+Student;Frontend+and+Backend+Developer;Building+Practical+Projects)
 
 **Web Development Student**  
 Focused on building responsive, maintainable, and user-friendly web applications.
+
+---
+
+## 🎬 Project Demo
+
+![Demo](https://res.cloudinary.com/dgwmeeszw/video/upload/w_1000,f_gif/v1770038554/Pinterest_1_xm7bpn.mp4)
 
 ---
 
@@ -58,11 +61,7 @@ Focused on building responsive, maintainable, and user-friendly web applications
     </td>
   </tr>
 </table>
-<div style="width: 100%; height: auto;">
-  <video width="100%" controls>
-    <source src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4" type="video/mp4">
-  </video>
-</div>
+
 ---
 
 ### Currently Developing Skills In
