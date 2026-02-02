@@ -7,12 +7,6 @@ Focused on building responsive, maintainable, and user-friendly web applications
 
 ---
 
-## 🎬 Project Demo
-
-![Demo](https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4)
-
----
-
 ## Tools & Technologies I Use
 
 <table align="center">
