@@ -68,4 +68,6 @@ Focused on building responsive, maintainable, and user-friendly web applications
 - Strengthen full-stack development foundations  
 - Write clean, readable, and scalable code
 
-  ---
+---
+
+<img src="https://res.cloudinary.com/dgwmeeszw/image/upload/v1770038997/snoopy_wallpaper-removebg-preview_c20h1v.png">
