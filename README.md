@@ -9,11 +9,7 @@
 Focused on building responsive, maintainable, and user-friendly web applications.
 
 ---
-<div style="width: 100%; height: auto;">
-  <video width="100%" controls>
-    <source src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4" type="video/mp4">
-  </video>
-</div>
+
 ## Tools & Technologies I Use
 
 <table align="center">
@@ -62,7 +58,11 @@ Focused on building responsive, maintainable, and user-friendly web applications
     </td>
   </tr>
 </table>
-
+<div style="width: 100%; height: auto;">
+  <video width="100%" controls>
+    <source src="https://res.cloudinary.com/dgwmeeszw/video/upload/v1770038554/Pinterest_1_xm7bpn.mp4" type="video/mp4">
+  </video>
+</div>
 ---
 
 ### Currently Developing Skills In
